@@ -34,7 +34,7 @@ O projeto foi desenvolvido usando as seguintes tecnologias
 ```bash
 
     #Clonar repositório
-    $ git clone https://github.com/joaov56/github-explorer
+    $ git clone https://github.com/joaov56/happy-rocketseat
 
     #Instalar dependências
     $ yarn 
